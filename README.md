@@ -18,3 +18,4 @@
         2. Импортируем `bd/yii2-future-test.sql` файл в свою базу
         <br>
 6. В настройках конфигурации apache прописать путь к папке `web`. Пример: `DocumentRoot /var/www/yii2-future-test/web`
+7. В консоли ide прописать `composer install`
